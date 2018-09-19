@@ -1,0 +1,16 @@
+{
+  "summary": {
+    "title": "Simple-WebServer-TM",
+    "owner": "Vinod Kumar"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "Web-Application",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ]
+  }
+}
