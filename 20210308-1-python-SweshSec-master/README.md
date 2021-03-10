@@ -1,6 +1,5 @@
 ## Protect My Secrets
-
-The government of an undisclosed country needs your help to strengthen this 
+Needs your help to strengthen this 
 secret management API that they use everyday 
 
 ### Goal
